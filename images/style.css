@@ -1,0 +1,65 @@
+html,body {
+margin:0px;
+padding:0px;
+}
+td.menu {
+PADDING-LEFT: 30px;
+PADDING-top: 2px;
+}
+
+.newText {
+	PADDING-LEFT: 220px; 
+      PADDING-right: 220px; 
+      FONT-WEIGHT: bold; 
+      FONT-SIZE: 16px; 
+      LINE-HEIGHT: 15px; 
+      FONT-FAMILY:arial, verdana,  sans-serif; color: black
+}
+
+
+
+
+p {
+padding-left:0px; padding-right: 15px;
+}
+
+
+.Nav2 {
+	COLOR: #000000; text-align:middle; font-weight: bold;
+}
+
+
+.Nav2  A:link {
+	COLOR: #000000;
+text-decoration: none;
+font-weight: bold;
+}
+
+.Nav2  A:visited {
+	COLOR: #000
+text-decoration: none;
+font-weight: bold;
+}
+
+.Nav2  A:hover {
+	COLOR: #DC143C;
+text-decoration: none
+font-weight: bold;
+}
+
+.navText {
+	PADDING-LEFT: 15px; 
+      FONT-WEIGHT: bold; 
+      FONT-SIZE: 14px; 
+      LINE-HEIGHT: 20px; 
+      FONT-FAMILY:arial, verdana,  sans-serif; 
+      color: #FFFFFF; text-align:middle;
+
+}
+
+
+
+
+
+
+
